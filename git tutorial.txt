@@ -1,0 +1,10 @@
+http://rogerdudler.github.io/git-guide/
+___________________________________________
+git init // create  local repository
+git status // current status
+git add "filename" // attach file to git
+git commit -m "commit_name"
+git push -u origin "branch_name" // save changes remotely
+git pull origin "branch_name" // retrieve changes from remote
+git checkout -b "branch_name" // create local branch
+git checkout "branch_name" // change branch

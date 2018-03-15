@@ -1,0 +1,12 @@
+added Social Media Posting System BE
+
+added BountyChat message encryption/decryption 
+
+added users refferal reward statistic
+
+bounty program service testing, refactoring 
+
+messenger bug(incorrect count of unread messages) fixing 
+
+added default templates for tenant
+
